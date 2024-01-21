@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MÇV İnşaat</title>
+    <link rel="stylesheet" href="mçvdemo.css">
+</head>
+<body>
+    <header>
+        <img src="mçvlogo1.jpg" href="mçvdemo.html">
+    <ul>
+        <li><a href="#">Anasayfa</a></li>
+        <li><a href="#">Çözümlerimiz</a></li>
+        <li><a href="#">Projeler</a></li>
+        <li><a href="#">Ürünler</a></li>
+        <li><a href="#">Haberler</a></li>
+        <li><a href="#">İK</a></li>
+        <li><a href="#">Kurumsal</a></li>
+        <li><a href="#">Bize Ulaşın</a></li>
+    </ul>
+        <p><a href="#">KEŞİF TALEBİ</a></p>
+    </header>
+    <hr>
+   
+</body>
+</html>
