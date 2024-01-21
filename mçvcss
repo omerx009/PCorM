@@ -1,0 +1,38 @@
+header{
+    width: 15%;
+    height: auto;
+    display: flex;
+}
+
+header img{
+    width: 75%;
+    height: auto;  
+}
+
+header ul{
+    display: flex;
+    list-style: none;
+    margin-top: 25%;
+    margin-left: 45%;
+
+}
+
+header li{
+    margin: 0 5%;
+    font-size: large;
+    font-style: normal;
+    font-weight: bold;
+}
+
+header a{
+    text-decoration: none;
+    color: black;
+}
+
+header p{
+    display: flex;
+    margin-top: 20%;
+    margin-left: 240%;
+    font-size: x-large;
+    font-weight: bolder;
+}
